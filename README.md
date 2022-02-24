@@ -14,3 +14,14 @@ scipy
 numpy
 knowledge on kd-tree. If have no idea what the hell this is check out https://www.wikiwand.com/en/K-d_tree and try understand it there, me too lazy to replicate their stuff
 
+So basically what you get is these stuff
+from
+![alt text](https://github.com/gamesbrewer/genmosaic/blob/master/aaa.jpg?raw=true)
+to
+![alt text](https://github.com/gamesbrewer/genmosaic/blob/master/output/output1.png?raw=true)
+
+
+from
+![alt text](https://github.com/gamesbrewer/genmosaic/blob/master/bluegrassguppy.png?raw=true)
+to
+![alt text](https://github.com/gamesbrewer/genmosaic/blob/master/output/output0.png?raw=true)
