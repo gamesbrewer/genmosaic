@@ -13,7 +13,7 @@ knowledge on kd-tree. If have no idea what the hell this is check out https://ww
 =============
 1. navigate to the base folder on command prompt
 2. type genmosaic.py <input name>  
-   for example genmosaic.py aaa.jpg
+   for example genmosaic.py aaa.jpg  or genmosaic.py bluegrassguppy.png
 3. files will be generated in output folder named as output.png
 
 
