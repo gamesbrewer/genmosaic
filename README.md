@@ -1,6 +1,6 @@
 # genmosaic
 
-##Pre-Requisites
+## Pre-Requisites
 =============
 Python 3
 scipy
@@ -9,7 +9,7 @@ knowledge on kd-tree. If have no idea what the hell this is check out https://ww
 
 
 
-##How to use
+## How to use
 =============
 1. navigate to the base folder on command prompt
 2. type genmosaic.py <input name>  
