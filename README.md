@@ -5,7 +5,7 @@
 Python 3
 scipy
 numpy
-knowledge on kd-tree. If have no idea what the hell this is check out https://www.wikiwand.com/en/K-d_tree and try understand it there, me too lazy to replicate their stuff
+knowledge on kd-tree. If have no idea what the hell this is check out https://www.wikiwand.com/en/K-d_tree and try understand it there, me too lazy to replicate their stuff  XD
 
 
 
